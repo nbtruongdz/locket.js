@@ -648,3 +648,4 @@ if (ua.includes("Locket")) {
         ])
     });
 }
+$done({ body: JSON.stringify(obj) });
